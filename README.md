@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **js, c#, java**
 
-💬 Ask me about **java, c#... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **java, c#... or anything [here](https://github.com/TieByn26/TieByn26/issues)**
 
 ⚡ Fun fact **75% of the world's population has not seen snow, I am among them =)))**
 
@@ -24,9 +24,6 @@
   <a href="mailto:dxuantienn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
 
  <hr/>
@@ -35,7 +32,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,c++,c#,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,c#,java,mysql" /><br>
 </div>
 
 <br/>
@@ -44,7 +41,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TieByn26/TieByn26/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
