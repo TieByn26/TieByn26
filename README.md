@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **none**
  
- 🌱 I’m currently learning **js, c#, java**
+ 🌱 I’m currently learning **nodejs, js, c#, java**
 
 💬 Ask me about **java, c#... or anything [here](https://github.com/TieByn26/TieByn26/issues)**
 
@@ -32,7 +32,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,java" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,c#,mysql,java" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,c#,mysql,java,python" /><br>
 </div>
 
 <br/>
