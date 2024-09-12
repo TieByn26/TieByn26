@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **none**
  
- 🌱 I’m currently learning **nodejs, js, c#, java**
+ 🌱 I’m currently learning **Spring, Typesc, Java**
 
 💬 Ask me about **java, c#... or anything [here](https://github.com/TieByn26/TieByn26/issues)**
 
