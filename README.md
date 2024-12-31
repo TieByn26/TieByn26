@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Spring, Typesc, Java**
 
-💬 Ask me about **java, c#... or anything [here](https://github.com/TieByn26/TieByn26/issues)**
+💬 Ask me about **java,... or anything [here](https://github.com/TieByn26/TieByn26/issues)**
 
 ⚡ Fun fact **75% of the world's population has not seen snow, I am among them =)))**
 
