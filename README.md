@@ -16,7 +16,7 @@
 
 💬 Ask me about **java,... or anything [here](https://github.com/TieByn26/TieByn26/issues)**
 
-⚡ Fun fact **I'm an 'A'sian, not a 'B'sian =)))**
+⚡ Fun fact **I'm an Asian, not a Bsian =)))**
 
  </div>
  
