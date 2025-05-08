@@ -16,7 +16,7 @@
 
 💬 Ask me about **java,... or anything [here](https://github.com/TieByn26/TieByn26/issues)**
 
-⚡ Fun fact **75% of the world's population has not seen snow, I am among them =)))**
+⚡ Fun fact **I'm an 'A'sian, not a 'B'sian =)))**
 
  </div>
  
