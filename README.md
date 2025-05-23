@@ -31,8 +31,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=next,react,tailwind" />
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,mysql,java,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=next,react,tailwind,typescript,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=mysql,java,servlet,spring" /><br>
 </div>
 
 <br/>
